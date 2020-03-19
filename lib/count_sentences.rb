@@ -4,9 +4,9 @@ class String
 
   def sentence?
     
-    if "HI!".end_with?("!")
-  else
-    false 
+     "HI!".end_with?("!")
+     false
+  
   end
     
   end
